@@ -1,5 +1,3 @@
-#### Video Demo: [Watch Here](https://youtu.be/0sY3qWhgAsU)
-
 #### Description:
 The Task Manager App is a simple yet powerful tool designed to help users organize and manage their tasks efficiently. Built with React, this application allows users to add, edit, delete, and filter tasks based on their completion status. The app also features a dark mode toggle, enhancing usability in different lighting conditions.
 
