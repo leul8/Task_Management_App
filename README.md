@@ -25,6 +25,3 @@ During the development of the Task Manager App, several design choices were made
 4. **User  Feedback**: Alerts are used to provide immediate feedback to users when they attempt to add a task without a title or when they save an edited task. This helps prevent errors and improves the overall user experience.
 
 5. **Task Filtering**: The filtering functionality allows users to focus on specific tasks, making it easier to manage their workload. This feature was included to enhance usability and task organization.
-
-### Conclusion:
-The Task Manager App is a comprehensive tool for task management, combining essential features with a user-friendly interface. The design choices made during development prioritize usability, accessibility, and responsiveness, making it a valuable resource for anyone looking to organize their tasks effectively.
